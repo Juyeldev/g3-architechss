@@ -509,9 +509,9 @@ border-radius: 8px;
     .conteiner, ul, .feature-section, .statics-section, .planiig-content, .Sponsors-company {
         flex-direction: column;
     }
-    ul{
+    /* ul{
         margin-right: 10px;
-    }
+    } */
 
     .banner{
         justify-content: center
